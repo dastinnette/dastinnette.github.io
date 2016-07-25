@@ -37,6 +37,11 @@ h6 {
     color: #f8f8f8;
     background: url(../img/hiking.jpg) no-repeat center center;
     background-size: cover;
+    height: inherit;
+}
+
+body {
+  min-height: 100vh;
 }
 
 .intro-message {
